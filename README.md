@@ -21,3 +21,8 @@ Welcome to the **Smooth Transitions Website**! This project demonstrates a visua
 │   └── script.js   # JavaScript for dynamic interactions
 └── assets/
     └── images/     # Images used in the project
+Contact
+For any questions, feel free to reach out:
+
+Email: hnamdev2005@gmail.com
+GitHub: Harsh-Namdev
